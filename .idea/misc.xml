@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/drawable/background_modal.xml" value="0.1845" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/drawable/background_text_view.xml" value="0.138" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/drawable/border_button_handle_modal.xml" value="0.1845" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/drawable/horizontal_line_gradient.xml" value="0.138" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/layout/card_block_chain.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/layout/frag1.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/layout/frag2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/layout/token_select_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/RSACORPORATION/AndroidStudioProjects/BlmSwap/app/src/main/res/layout/token_select_modal.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_button_import.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_button_view_bsc.xml" value="0.2405" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_card_remove_list_token.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_card_selected_chain.xml" value="0.195" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_card_token.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_general_setting.xml" value="0.2115" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_modal.xml" value="0.2115" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_profile_modal.xml" value="0.2405" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_text_view.xml" value="0.2985" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/background_token_list_card.xml" value="0.1905" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/border_button_handle_modal.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/horizontal_line_gradient.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/ic_background_switch_button.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2415" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/ic_check_switch_button.xml" value="0.244" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/ic_cross_switch_button.xml" value="0.244" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/ic_plant_astronaut.xml" value="0.1935" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/ic_sliders_solid.xml" value="0.2115" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/thumb_switch_button.xml" value="0.243" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/track_switch_botton.xml" value="0.244" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/drawable/track_switch_button.xml" value="0.244" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/account_fragment.xml" value="0.234375" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/activity_main.xml" value="0.42762535477767266" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/card_block_chain.xml" value="0.2" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/card_token.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/card_token_list.xml" value="0.5" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/general_setting_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/menu_modal.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/token_favorite_fragment.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/token_manage_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/token_select_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/alire/AndroidStudioProjects/blm-swap-mobile-application/app/src/main/res/layout/token_select_modal.xml" value="0.14175724637681159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,104 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "2:870324388364189325",
+      "lastPropertyId": "2:4420817723232642485",
+      "name": "TokenListObjectBox",
+      "properties": [
+        {
+          "id": "1:9051173029191434113",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:4420817723232642485",
+          "name": "information",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:7956998953456637785",
+      "lastPropertyId": "10:9159814896049261649",
+      "name": "TokenObjectBox",
+      "properties": [
+        {
+          "id": "1:6706884551066491874",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:4246121119773067648",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:7715253485040379124",
+          "name": "symbol",
+          "type": 9
+        },
+        {
+          "id": "4:3735596434471035688",
+          "name": "address",
+          "type": 9
+        },
+        {
+          "id": "5:4821837424642051698",
+          "name": "chainId",
+          "type": 5
+        },
+        {
+          "id": "6:127657798161835129",
+          "name": "decimals",
+          "type": 5
+        },
+        {
+          "id": "7:8274162963758036214",
+          "name": "logoURI",
+          "type": 9
+        },
+        {
+          "id": "8:7049249173428759258",
+          "name": "isFavorite",
+          "type": 1
+        },
+        {
+          "id": "9:476693733572063551",
+          "name": "logoBlockChain",
+          "type": 5
+        },
+        {
+          "id": "10:9159814896049261649",
+          "name": "nameBlockChain",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "3:7956998953456637785",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    7752607534204873480
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    1456273089931341102,
+    8621576394062702892,
+    3240937743531908948,
+    3270212749189546409,
+    5476010028668443559
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

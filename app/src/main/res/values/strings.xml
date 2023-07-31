@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Blm Swap</string>
+    <string name="menu">Menu</string>
+    <string name="blm_swap">BLM Swap</string>
+    <string name="amount">Amount</string>
+    <string name="balance">Balance 0</string>
+    <string name="connect_wallet">Connect Wallet</string>
+    <string name="search_token">Search Your Token</string>
+    <string name="search_favorite_token">Search Your Favorite Token</string>
+    <string name="hint_edittext_search">Search coin name here ...</string>
+    <string name="name_chain">Name Chain</string>
+    <string name="manage_token">Manage Token</string>
+    <string name="text_url_input">https:// or ipfs:// or ENS name</string>
+    <string name="select">Select</string>
+    <string name="import_button">Import</string>
+    <string name="imported_button">Imported</string>
+    <string name="view">View</string>
+    <string name="remove">Remove</string>
+    <string name="swap">Swap</string>
+    <string name="farm">Farm</string>
+    <string name="bridge">Bridge</string>
+    <string name="beta">(Beta)</string>
+    <string name="address_wallet">Address Wallet</string>
+    <string name="account">Account</string>
+    <string name="view_on_bsc">View on bscScan</string>
+    <string name="disconnect">Disconnect</string>
+</resources>

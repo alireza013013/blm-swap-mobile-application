@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/mainConstraintCardChainDeselect"
+            android:layout_width="120dp"
+            android:layout_height="100dp"
+            android:background="@drawable/border_button_handle_modal"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:visibility="gone"
+            >
+
+            <ImageView
+                android:id="@+id/imageChain"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/logo_blm"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/mainConstraintCardChainSelect"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:background="@drawable/background_card_selected_chain"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:padding="10dp"
+            android:visibility="gone"
+            >
+
+            <ImageView
+                android:id="@+id/imageChainSelect"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/logo_blm"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/nameChain"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="@string/name_chain"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </RelativeLayout>
+</layout>
